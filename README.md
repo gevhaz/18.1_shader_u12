@@ -17,6 +17,10 @@ openFramework's projectGenerator, run `make`, and do `make run`.
 Alternatively, use QTCreator's openFramework's [Qt Creator 
 plugin](https://openframeworks.cc/setup/qtcreator/).
 
+You start the music with the space key, and jump 15 seconds forward or 
+backward with <kbd>→</kbd> and <kbd>←</kbd>. <kbd>s</kbd> stops the song 
+and <kbd>f</kbd> toggles fullscreen.
+
 # Licence
 
 This projected is licenced under GPLv3.
