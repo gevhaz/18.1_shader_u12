@@ -11,8 +11,8 @@ elements from earlier in the song. Here is a picture:
 # How to use
 
 You will need openFrameworks to run this visualization but no addons are 
-necessary. Simply put it in a subfolder of apps or wherever you have 
-configured the projectGenerator to look for pictures, run 
+necessary. Simply put it in a subfolder of `apps` or wherever you have 
+configured the projectGenerator to look for projects, run 
 openFramework's projectGenerator, run `make`, and do `make run`. 
 Alternatively, use QTCreator's openFramework's [Qt Creator 
 plugin](https://openframeworks.cc/setup/qtcreator/).
